@@ -1,5 +1,5 @@
 # native-instruments-uninstaller
-shell script to uninstall single instrument
+Simple shell script to uninstall single instrument from Native Instrument on OSX.
 
 ## usage
 First you'll need to find the instrument name. You can find a list in `/Library/Application Supporot/Native Instruments/`.
